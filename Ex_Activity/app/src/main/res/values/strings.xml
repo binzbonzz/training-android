@@ -5,4 +5,7 @@
     <string name="go_button3_title">Go to Example3 Activity</string>
     <string name="go_button4_title">Go to Example4 Activity</string>
     <string name="go_button5_title">Go to Example5 Activity</string>
+    <string name="menu_red_string">Red</string>
+    <string name="menu_green_string">Green</string>
+    <string name="menu_blue_string">Blue</string>
 </resources>
